@@ -1,4 +1,4 @@
-Demo [React Login App](https://kshubhranshu.github.io/react-login-app/).
+Demo [React Login App](https://kshubhranshu.github.io/react-login-app/).<br />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
