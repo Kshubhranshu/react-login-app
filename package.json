@@ -36,6 +36,7 @@
     ]
   },
   "devDependencies": {
+    "firebase": "^7.14.1",
     "gh-pages": "^2.2.0"
   }
 }
